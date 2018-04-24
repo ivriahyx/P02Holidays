@@ -13,7 +13,6 @@ public class Holidays {
         this.icon = icon;
     }
 
-
     public String getName(){
         return name;
     }

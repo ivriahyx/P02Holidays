@@ -62,9 +62,6 @@ public class HolidayAdapter extends ArrayAdapter<Holidays> {
         }
 
 
-
-
-
         // Return the nicely done up View to the ListView
         return rowView;
     }
